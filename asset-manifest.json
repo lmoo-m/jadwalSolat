@@ -1,16 +1,16 @@
 {
   "files": {
     "main.css": "/jadwalSolat/static/css/main.3354d817.css",
-    "main.js": "/jadwalSolat/static/js/main.a363a3ec.js",
+    "main.js": "/jadwalSolat/static/js/main.23492015.js",
     "static/js/787.98b9c22e.chunk.js": "/jadwalSolat/static/js/787.98b9c22e.chunk.js",
     "static/media/logo.png": "/jadwalSolat/static/media/logo.650beb8c6e93f09334d4.png",
     "index.html": "/jadwalSolat/index.html",
     "main.3354d817.css.map": "/jadwalSolat/static/css/main.3354d817.css.map",
-    "main.a363a3ec.js.map": "/jadwalSolat/static/js/main.a363a3ec.js.map",
+    "main.23492015.js.map": "/jadwalSolat/static/js/main.23492015.js.map",
     "787.98b9c22e.chunk.js.map": "/jadwalSolat/static/js/787.98b9c22e.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.3354d817.css",
-    "static/js/main.a363a3ec.js"
+    "static/js/main.23492015.js"
   ]
 }
